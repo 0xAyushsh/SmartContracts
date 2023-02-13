@@ -1,0 +1,24 @@
+{
+  "name": "smartcontracts",
+  "version": "1.0.0",
+  "description": "This repositories is a collection of Smart Contracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xAyushsh/SmartContracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xAyushsh/SmartContracts/issues"
+  },
+  "homepage": "https://github.com/0xAyushsh/SmartContracts#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.4",
+    "solc": "^0.8.18"
+  }
+}
